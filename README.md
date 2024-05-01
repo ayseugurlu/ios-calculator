@@ -1,3 +1,3 @@
 IOS-Calculator Interface
+![image](https://github.com/ayseugurlu/ios-calculator/assets/164202619/f56eca40-2a42-46e5-a938-d9ea42126838)
 
-![image](https://github.com/ayseugurlu/ios-calculator/assets/164202619/b74aaf80-fe70-4c03-bef8-42521b28c5e5)
