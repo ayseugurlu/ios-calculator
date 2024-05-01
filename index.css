@@ -71,6 +71,7 @@ body{
     grid-column: 2/3;
     grid-row: 1/2;
     background-color: #A5A5A5;
+    color: black;
     
 }
 
@@ -78,6 +79,7 @@ body{
     grid-column: 3/4;
     grid-row: 1/2;
     background-color: #A5A5A5;
+    color: black;
     
 }
 
