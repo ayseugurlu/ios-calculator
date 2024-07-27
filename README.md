@@ -35,8 +35,7 @@ ios-calculator/
 https://ayseugurlu.github.io/ios-calculator/
 
 ## Outcome
-
-
+![ios-calculator](https://github.com/user-attachments/assets/dc3f3e7a-8259-4fb8-ad56-a013dfa74cff)
 
 
 
